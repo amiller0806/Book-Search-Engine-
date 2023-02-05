@@ -14,11 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-<<<<<<< HEAD
   },
   "dependencies": {
     "react-hook-use-state": "^1.1.0"
-=======
->>>>>>> 441ba61fb882b591de0fcfaad83380c563af3714
   }
 }
